@@ -6,6 +6,8 @@
 
 [CI and Code Coverage](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13)
 
+[![Build Status](https://travis-ci.org/jkalwar/open-source.svg?branch=master)](https://travis-ci.org/jkalwar/open-source)
+
 [![Coverage Status](https://coveralls.io/repos/github/jkalwar/open-source/badge.svg?branch=master)](https://coveralls.io/github/jkalwar/open-source?branch=master)
 
 ## Tips for using this library on windows
